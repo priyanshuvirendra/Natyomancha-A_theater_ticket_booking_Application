@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+  width: 0.2px;
+  height: 1px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #31363F;
+  border-radius: 10px;
+}
+
+
+/* important to change the date picker color */
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+  cursor: pointer;
+}
