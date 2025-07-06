@@ -1,6 +1,6 @@
 # Theatre_Ticket_Booking_Application
 
-It is a theatre ticket booking application that mainly hosts Bengali theatre productions. My website Natyamancha, will help users to buy tickets for Bengali plays performed in Kolkata.
+It is a theatre ticket booking application that mainly hosts Bengali theatre productions created and managed by Priyanshu Virendra, final year grad student of Techno main salt lake . My website Natyamancha, will help users to buy tickets for Bengali plays performed in Kolkata.
 
 ### For the users - see the video below to know how to use it.
 
